@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Ubuntu
 
-You can use the [editor on GitHub](https://github.com/docker4cn/ubuntu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![License](https://img.shields.io/github/license/docker4cn/ubuntu.svg)](https://github.com/docker4cn/ubuntu/master/LICENSE)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+这是为中国定制的Ubuntu镜像，上游是Docker官方的[ubuntu](https://hub.docker.com/_/ubuntu)。
+它是[docker4cn]项目的一个部分。
 
-### Markdown
+目前仍处于计划阶段，无法使用。
+详情请参考GitHub Projects[第二阶段]。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如果有任何想法，请提[issues]或PR。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/docker4cn/ubuntu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[第二阶段]:https://github.com/orgs/docker4cn/projects/2
+[issues]:https://github.com/docker4cn/ubuntu/issues/new
