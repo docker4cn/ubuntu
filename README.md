@@ -1,8 +1,8 @@
-## Ubuntu
+# Ubuntu
 
-[![License](https://img.shields.io/github/license/docker4cn/ubuntu.svg)](https://github.com/docker4cn/ubuntu/master/LICENSE)
+[![License](https://img.shields.io/github/license/docker4cn/ubuntu.svg)](https://github.com/docker4cn/ubuntu/blob/master/LICENSE)
 
-这是为中国定制的Ubuntu镜像，上游是Docker官方的[ubuntu](https://hub.docker.com/_/ubuntu)。
+这是为中国定制的Ubuntu镜像，上游是Docker官方的[ubuntu](https://hub.docker.com/_/ubuntu)镜像。
 它是[docker4cn]项目的一部分。
 
 目前仍处于计划阶段，无法使用。
