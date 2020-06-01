@@ -1,0 +1,14 @@
+allprojects{
+    repositories {
+        maven {
+            url 'https://mirrors.huaweicloud.com/repository/maven/'
+        }
+    }
+    buildscript {
+        repositories {
+            maven {
+                url 'https://mirrors.huaweicloud.com/repository/maven/'
+            }
+        }
+    }
+}

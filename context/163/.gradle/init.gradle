@@ -1,0 +1,14 @@
+allprojects{
+    repositories {
+        maven {
+            url 'https://mirrors.163.com/maven/repository/maven-public/'
+        }
+    }
+    buildscript {
+        repositories {
+            maven {
+                url 'https://mirrors.163.com/maven/repository/maven-public/'
+            }
+        }
+    }
+}
