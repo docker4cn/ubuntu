@@ -6,7 +6,7 @@ RUN apt-get update \
         apt-transport-https \
         ca-certificates \
         tzdata \
-    && sed -i "s@http://.*.debian.org@https://mirrors.ustc.edu.cn@g" /etc/apt/sources.list \
+    && sed -i "s@http://.*.ubuntu.com@https://mirrors.ustc.edu.cn@g" /etc/apt/sources.list \
     && rm -rf /var/apt/cache/*
 
 COPY ./context/ustc /root/
